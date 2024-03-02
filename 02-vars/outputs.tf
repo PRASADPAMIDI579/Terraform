@@ -2,10 +2,10 @@ output "sample" {
   value = var.sample
 }
 
-output "sample2" {
+output "number" {
   value = var.sample2
 }
 
-output "sample3" {
+output "bollen" {
   value = var.sample3
 }
