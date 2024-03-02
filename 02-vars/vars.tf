@@ -11,5 +11,5 @@ variable "sample2" {
 
 #Boolean data type
 variable "sample3" {
-  default = TRUE
+  default = true
 }
