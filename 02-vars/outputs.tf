@@ -19,5 +19,5 @@ output "list2" {
 }
 
 output "map_string" {
-  value = var.map["sting"]
+  value = var.map["string"]
 }
