@@ -1,9 +1,9 @@
 #variable "sample" {}
 
-variable "sample2" {
+variable "sample" {
   default = "Hello Terraform"
 }
 
-output "sample2" {
-  value = var.sample2
+output "sample" {
+  value = var.sample
 }
